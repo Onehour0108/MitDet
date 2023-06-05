@@ -28,7 +28,7 @@ Download our checkpoints of the final models trained from the [Google Drive]() a
 
 
 
-### Detect
+## Detect
 -You can download the test data from [here]() or use your own data for inference in the following format:
 
 path/ 
