@@ -1,4 +1,4 @@
-# Rethinking Mitosis Detection: Balancing and Diversifying Data and Feature Representation
+# Rethinking Mitosis Detection: Towards Diverse Data and Feature Representation
 ![outline](framework.PNG)
 
 ## Introduction
