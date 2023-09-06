@@ -20,11 +20,11 @@ Please follow this GitHub for more updates.
 - 1×GPU
 
 ## Datasets
-* Download training challenge [MIDOG2021](https://imig.science/midog/download-dataset/)
+* Download training challenge [MIDOG2021](https://midog2021.grand-challenge.org/)
 
 * External independent  datasets :  1.[AMIDA2013](https://tupac.grand-challenge.org/Dataset/)   2.[MITOSIS2014](https://mitos-atypia-14.grand-challenge.org/Dataset/)  3.[TUPAC2016](https://tupac.grand-challenge.org/Dataset/)  4.[MIDOG2022](https://imig.science/midog/download-dataset/)
 ## Checkpoints
-Download our checkpoints of the final models trained from the [Google Drive]() and [baidu cloud]() 
+Download our checkpoints of the final models trained from the [Google Drive]() and [Baidu Cloud]() (Our paper is still under review. Once the paper is accepted, we will provide the training code and checkpoints) 
 
 
 
